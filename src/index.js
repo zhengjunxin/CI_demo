@@ -1,1 +1,1 @@
-module.exports = add = num => num + 1
+module.exports = add = num => num + 2
