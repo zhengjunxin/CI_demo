@@ -1,3 +1,3 @@
 # CI DEMO
 
-[![Build](https://img.shields.io/travis/react-melon/melon-core.svg)](https://travis-ci.org/react-melon/melon-core)
+[![Build Status](https://travis-ci.org/zhengjunxin/CI_demo.svg?branch=master)](https://travis-ci.org/zhengjunxin/CI_demo)
